@@ -1,0 +1,11 @@
+{
+    "name": "boby2055301023/utsbpwl",
+    "description": "Projek UTS BPWL Boby Hartanto 20TIA",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.9",
+        "facebook/graph-sdk": "^5.1",
+        "guzzlehttp/guzzle": "^7.3",
+        "hybridauth/hybridauth": "^3.7"
+    }
+}
